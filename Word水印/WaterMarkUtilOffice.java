@@ -280,3 +280,15 @@ public final class WaterMarkUtilOffice {
         }
     }
 }
+
+/*
+<dependency>
+    <groupId>com.jacob</groupId>
+    <artifactId>jacob</artifactId>
+    <version>1.19</version>
+    <scope>system</scope>
+    <systemPath>${basedir}/src/main/resources/lib/jacob.jar</systemPath>
+</dependency>
+mvn添加本地依赖
+
+*/
